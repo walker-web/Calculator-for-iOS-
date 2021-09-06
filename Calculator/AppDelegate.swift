@@ -1,10 +1,8 @@
 //
-//  AppDelegate.swift
+//  CalculatorLogic.swift
 //  Calculator
 //
-//  Created by Angela Yu on 10/09/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
-//
+//  Created by ASHISH on 02/09/2019.
 
 import UIKit
 
